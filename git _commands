@@ -1,0 +1,5 @@
+#Added tha Git cheet sheet
+git init
+git add
+git commit -m "Message"
+git log

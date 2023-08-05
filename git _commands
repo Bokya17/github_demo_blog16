@@ -3,3 +3,5 @@ git init
 git add
 git commit -m "Message"
 git log
+#Cloning the git repositiry 
+git clone <URL>

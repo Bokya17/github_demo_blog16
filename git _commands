@@ -5,3 +5,8 @@ git commit -m "Message"
 git log
 #Cloning the git repositiry 
 git clone <URL>
+#pull the changes from remote to local
+git pull remote <branch>
+#make the modification loaclly and add the chnages and commit them
+git add <filename>
+git commit -m "message"
